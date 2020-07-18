@@ -1,2 +1,4 @@
 # VideoLibrary
-Dummy video library  
+Dummy video library.
+## Architecture
+to do.
